@@ -7,7 +7,7 @@ import TodoList from './TodoList';
 function App() {
   return (
     <div className="App">
-      <h1>Mitchell Coates GitHub Demo</h1>
+      <h1>Mitchell Coates 3.4PA</h1>
         <h2>State and Hooks</h2>
 
       <Counter />
